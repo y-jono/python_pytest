@@ -47,3 +47,6 @@ TDDBC for Python with Pytest
 ==========
 
 MIT ライセンスです (詳しくはプロジェクト直下の LICENSE をご覧ください)
+
+sli.do
+#d551
